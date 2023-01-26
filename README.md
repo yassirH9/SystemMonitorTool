@@ -1,6 +1,6 @@
 # SystemMonitorTool
 
-## project explanation
+## Project explanation
 
 The project was thought to be a real time monitor of a computer equipment, in the case of the example the laptop that I used during the development, this provides in the webapp basic information about the use of the device such as battery, cpu and memory usage among others.
 
