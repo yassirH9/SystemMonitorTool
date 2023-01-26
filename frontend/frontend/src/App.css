@@ -1,0 +1,23 @@
+body {
+   background-color: rgb(77, 77, 77);
+}
+#cpu-usage{
+    color: white;
+}
+h1{
+    margin: 0;
+    color: rgb(27, 27, 27);
+    text-align: center;
+}
+.data-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.iner-data-container{
+    margin-left: 5em;
+    margin-right: 5em;
+    padding: 2em;
+    text-justify: auto;
+    border: 1px solid black;
+}
